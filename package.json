@@ -6,9 +6,13 @@
   "author": "Christopher Su <christophersu9@gmail.com>",
   "main": "app.js",
   "dependencies": {
-      "express": "4.x",
-      "hbs": "~2.6.0",
-      "spotify-node-applescript": "0.2.1",
-      "body-parser": "1.x.x"
+    "express": "4.x",
+    "passport": "0.2.0",
+    "hbs": "~2.6.0",
+    "spotify-node-applescript": "0.2.1",
+    "body-parser": "1.x.x",
+    "cookie-parser": "^1.0.1",
+    "express-session": "^1.0.4",
+    "passport-local": "1.0.0"
   }
 }
